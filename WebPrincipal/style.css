@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.Ley {
+    font-style: italic;
+}
+
+.IMG {
+    width: 300px;
+    height: auto;
+}
